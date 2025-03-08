@@ -1,4 +1,4 @@
-# lbph-face-recognition
+# FaceIt by Goteet
 
 This is a simple face recognition project using Python OpenCV, made to help some friends at work.
 
