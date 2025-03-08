@@ -4,7 +4,7 @@ This is a simple face recognition project using Python OpenCV, made to help some
 
 ### Requirements
 
-- Python 3.6+ (Anaconda is recommended)
+- Python 3.12
 - OpenCV 
 - Numpy
 - Pandas
